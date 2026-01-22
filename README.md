@@ -91,7 +91,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitsng01&show_icons=true&locale=en&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitsng01&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=rohitsng01&theme=dark)
+
 
 
 ---
