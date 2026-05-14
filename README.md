@@ -14,7 +14,7 @@
 
 ### 🤝 I'm seeking help with **AI-ChatBot**
 
-### 👨‍💻 Check out my projects on [GitHub](https://github.com/Rohitsng01)
+### 👨‍💻 Check out my projects on (https://portfolio-qiyh.vercel.app/)
 
 ### 💬 Feel free to ask me about **React**, **JavaScript**, **Node.js**, **Express**, **MongoDB**, **Tailwind CSS**, **HTML**
 
